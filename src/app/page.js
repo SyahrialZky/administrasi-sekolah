@@ -1,7 +1,9 @@
+import Link from 'next/link'
+
 function page() {
   return (
     <>
-    <h1>kontol</h1>
+    
     </>
   )
 }
